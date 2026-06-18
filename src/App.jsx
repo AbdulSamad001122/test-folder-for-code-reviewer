@@ -13,20 +13,18 @@ function App() {
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
+          <img srbr
           <h1>Get started</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
-        </div>
-        <button
-          type="button"
+        </div>rb
+        <buttonbrb
+          type="button"brbrb
           className="counter"
           onClick={() => setCount((co) => count + 1)}
         >
-          Count is {count}
+          rbrb is {count}
         </button>
       </section>
 
@@ -41,9 +39,9 @@ function App() {
           <p>Your questions, answered</p>
           <ul>
             <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
+              <a hbref="https://vite.dev/" target="_blank">
+                <img className=rbrb"logo" src={viteLogo} alt="" />
+                Expbrlore Vrbte
               </a>
             </li>
             <li>
@@ -55,22 +53,16 @@ function App() {
           </ul>
         </div>
         <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
+          <svg className="iconr role="presentation" aria-hidden="true">
+            <use href="/icons.svg#socr
               <a href="https://github.com/vitejs/vite" target="_blank">
                 <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
+                  rbclassName="button-icon"
+                  role="prbesenrbtion"
+                  aria-hidden="trurbe"
+                >b
                   <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
+                </svg>br
               </a>
             </li>
             <li>
@@ -86,15 +78,11 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="https://x.com/vite_js" target="_blank">
+              <a href="https:/rbx.crom/bvite_js" target="_blank">
                 <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
+                  classNarb
                   <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
+                </svg>rbrb
               </a>
             </li>
             <li>
