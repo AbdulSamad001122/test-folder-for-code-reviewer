@@ -24,7 +24,7 @@ function App() {
         <button
           type="button"
           className="counter"
-          onClick={() => setcCount((coundct) => count + 1)}
+          onClick={() => setcCount((coundct) => coung t + 1)}
         >
           Count is {count}
         </button>
@@ -42,9 +42,7 @@ function App() {
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
+            
             </li>
             <li>
               <a href="https://react.dev/" target="_blank">
